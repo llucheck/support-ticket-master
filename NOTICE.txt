@@ -1,0 +1,9 @@
+Apache License
+Copyright January 2004
+
+The intial developer of some parts of this , which are copied from, or derived from
+https://developer.okta.com/blog/2018/07/10/build-a-basic-crud-app-with-node-and-react is 
+Braden Kelley
+
+Regex.JS, and Yatzhee.JS in pages developed by Leonard Lucheck
+are MIT copyright 2020
