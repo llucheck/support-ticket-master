@@ -16,5 +16,7 @@ Okta tutorials:
 
 App.JS
 
+NOTE: Project may be broken due to various updates including but not limited to okta-react from okta
+
 
 
